@@ -28,7 +28,7 @@ I have a solid understanding of relational database management using **PostgreSQ
 * **Testing:** Pytest
 
 **Frontend & Tools:**
-* **Frontend:** React (Basic implementation and API integration)
+* **Frontend:** JavaScript + React (Basic implementation and API integration), HTML, CSS
 * **Version Control:** Git
 
 
